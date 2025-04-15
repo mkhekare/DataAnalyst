@@ -13,7 +13,8 @@ pinned: false
 
 ▶️ **[Click here to open the app](https://huggingface.co/spaces/mkhekare/DataAnalyst)**
 
-<img width="1424" alt="Screenshot 2025-04-06 at 11 05 48 AM" src="https://github.com/user-attachments/assets/d0e8f282-36f4-4143-934e-572bfe1c25d9" />
+<img width="1431" alt="Screenshot 2025-04-15 at 9 39 29 PM" src="https://github.com/user-attachments/assets/18a210a7-424f-4aa1-a714-e21837d2f9b3" />
+
 
 # Data Analyst Space
 
